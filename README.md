@@ -38,7 +38,7 @@ Install dependencies
 
 Rename `.env.exmaple` to `.env` and input your OpenAI API Key in the format shown below. </br>
 
-```
+```bash
 VITE_API_KEY={Your OpenAI API Key}
 ```
 

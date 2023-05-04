@@ -1,0 +1,6 @@
+./public/ss.jpg
+.env.example
+.vscode
+.yarn
+dist
+node_modules
